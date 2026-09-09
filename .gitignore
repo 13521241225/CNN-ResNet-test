@@ -1,0 +1,16 @@
+# PyCharm / IDE
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 数据集
+data/
+
+# 模型权重
+*.pth
+*.pt
+*.pkl
+*.ckpt
